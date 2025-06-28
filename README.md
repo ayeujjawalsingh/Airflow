@@ -1,6 +1,6 @@
 # Apache Airflow – Comprehensive Guide
 
-![Airflow Architecture](./Apache Airflow Architecture Flowchart.png)
+![Airflow Architecture](Apache_Airflow_Architecture_Flowchart.png)
 
 ## What is Apache Airflow?
 
