@@ -1,5 +1,7 @@
 # Apache Airflow – Comprehensive Guide
 
+![Airflow Architecture](./Apache Airflow Architecture Flowchart.png)
+
 ## What is Apache Airflow?
 
 Apache Airflow is an open-source **workflow orchestration** platform used to author, schedule, and monitor complex workflows as code.  You define workflows as Directed Acyclic Graphs (DAGs) in Python, where each node is a task and edges define dependencies.  Airflow then manages the execution order and retries of tasks, providing a centralized UI to track progress and logs.  This makes it ideal for data pipelines (ETL/ELT), batch jobs, report generation, ML model training, and other automated processes.
